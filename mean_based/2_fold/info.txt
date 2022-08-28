@@ -1,0 +1,7 @@
+author: liu_osta_maeda_ukita et al
+n_fold: 2
+random_joints: True
+cap_boundaries: False
+use_quartile_range: False
+variance: 0.0025
+name: Mean Based Liu_osta_maeda_ukita
