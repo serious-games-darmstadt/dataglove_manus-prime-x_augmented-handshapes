@@ -1,0 +1,6 @@
+author: airaksinen et al
+n_fold: 4
+random_joints: None
+cap_boundaries: None
+name: Sensor Dropout Airaksinen
+dropout_chance: 0.3
