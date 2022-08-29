@@ -7,14 +7,14 @@ This repository contains the augmented data based on the available data recorded
 
 ## File Structure
 
-└───augmentation_method<br>
-    └───n_fold<br>
-        ├───results<br>
-        │   ├───29_gestures<br>
-        │   └───62_gestures<br>
-        ├───static<br>
-        │   └───...<br>
-        └───info.txt<br>
+* augmentation_method<br>
+    * n_fold<br>
+        * results<br>
+            * 29_gestures<br>
+            * 62_gestures<br>
+        * static<br>
+            * ...<br>
+        * info.txt<br>
 
 For each method there is a folder with the same name. They contain datasets with different sizes and the corresponding recognition results (either for 62 or 29 gesture labels).
 An info.txt file includes information about the parameters that led to the results. The static folder contains the data.
