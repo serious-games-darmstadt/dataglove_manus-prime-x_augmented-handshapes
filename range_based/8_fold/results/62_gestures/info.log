@@ -1,0 +1,30 @@
+INFO:root:Gestures: 1 3 4 5 7 8 a baby_o bent_1 bent_l bent_v c closed_b closed_e curved_1 curved_4 curved_5 curved_h curved_l curved_v d e f flat_1 flat_4 flat_b flat_h flat_horns flat_ily flat_m flat_n flat_o flat_v flatspread_5 g goody_goody h horns i ily k l m n o open_8 open_b open_e open_f open_h p q r s spread_e spread_open_e stacked_5 t v w x y
+INFO:root:Training data: 28272
+INFO:root:Test data: 186
+INFO:root:Participants: 20
+INFO:root:Test users: ['14'] ['6'] ['17'] ['20'] ['1'] ['10'] ['4'] ['2'] ['16'] ['7'] ['12'] ['8'] ['15'] ['18'] ['5'] ['19'] ['9'] ['3'] ['13'] ['11']
+INFO:root:Used features: ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18' 'x19'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18' 'x19'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18' 'x19'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18' 'x19'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18' 'x19'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18' 'x19'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18' 'x19'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18' 'x19'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18' 'x19'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18' 'x19'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18' 'x19'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18' 'x19'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18' 'x19'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18' 'x19'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18' 'x19'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18' 'x19'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18' 'x19'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18' 'x19'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18' 'x19'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
+ 'x14' 'x15' 'x16' 'x17' 'x18' 'x19']
+INFO:root:RepeatedKFold n_splits: None
+INFO:root:RepeatedKFold n_repeats: 1
+INFO:root:Feature threshold: 0
+INFO:root:Optimized: False

@@ -1,0 +1,18 @@
+name: Combined Pipeline Augmentation Range_Interpolation_Unknown__Random_Gaussian_Noise_Um
+2 augmenters:
+	author: unknown et al
+	n_fold: 6
+	random_joints: True
+	cap_boundaries: None
+	use_quartile_range: False
+	variance: None
+	name: Range Interpolation Unknown
+
+	author: um et al
+	n_fold: 2
+	random_joints: True
+	cap_boundaries: False
+	name: Random Gaussian Noise Um
+	mean: 0
+	variance: 0.0009
+

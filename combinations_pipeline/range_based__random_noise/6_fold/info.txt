@@ -1,0 +1,19 @@
+name: Combined Pipeline Augmentation Range_Based_Liu_osta_maeda_ukita__Random_Gaussian_Noise_Um
+2 augmenters:
+	author: liu_osta_maeda_ukita et al
+	n_fold: 6
+	random_joints: True
+	cap_boundaries: None
+	use_quartile_range: False
+	variance: None
+	name: Range Based Liu_osta_maeda_ukita
+	spread_limit: None
+
+	author: um et al
+	n_fold: 2
+	random_joints: True
+	cap_boundaries: False
+	name: Random Gaussian Noise Um
+	mean: 0
+	variance: 0.0009
+

@@ -1,0 +1,19 @@
+name: Combined Pipeline Augmentation Range_Interpolation_Unknown__Feature_Shuffle_Unknown
+2 augmenters:
+	author: unknown et al
+	n_fold: 6
+	random_joints: True
+	cap_boundaries: None
+	use_quartile_range: False
+	variance: None
+	name: Range Interpolation Unknown
+
+	author: unknown et al
+	n_fold: 2
+	random_joints: True
+	cap_boundaries: None
+	use_quartile_range: None
+	variance: None
+	name: Feature Shuffle Unknown
+	shuffle_between: gesture
+
