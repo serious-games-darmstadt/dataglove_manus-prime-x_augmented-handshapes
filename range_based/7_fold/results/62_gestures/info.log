@@ -2,7 +2,7 @@ INFO:root:Gestures: 1 3 4 5 7 8 a baby_o bent_1 bent_l bent_v c closed_b closed_
 INFO:root:Training data: 24738
 INFO:root:Test data: 186
 INFO:root:Participants: 20
-INFO:root:Test users: ['13'] ['10'] ['15'] ['16'] ['4'] ['3'] ['2'] ['19'] ['7'] ['8'] ['9'] ['1'] ['14'] ['5'] ['17'] ['18'] ['6'] ['12'] ['11'] ['20']
+INFO:root:Test users: ['16'] ['11'] ['14'] ['13'] ['4'] ['6'] ['19'] ['12'] ['1'] ['9'] ['3'] ['5'] ['7'] ['10'] ['18'] ['15'] ['20'] ['17'] ['8'] ['2']
 INFO:root:Used features: ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
  'x14' 'x15' 'x16' 'x17' 'x18' 'x19'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
  'x14' 'x15' 'x16' 'x17' 'x18' 'x19'] ['x0' 'x1' 'x2' 'x3' 'x4' 'x5' 'x6' 'x7' 'x8' 'x9' 'x10' 'x11' 'x12' 'x13'
