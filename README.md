@@ -1,5 +1,7 @@
 # dataglove_manus-prime-x_augmented-handshapes
 
+**IMPORTANT NOTE: The following datasets have user-dependency issues and should not be used atm: feature_shuffle, range_based, range_interpolation, inter_user_interpolation, mean_based, median_based, combinations and combinations_pipeline. Furthermore, augmentation should be done "live" instead of using datasets these datasets (see gesture-classifier repository).**
+
 TODO: check which nfolds should be removed at the end from this repo (atm many datasets with a lot of data)
 
 This repository contains the augmented data based on the available data recorded with the Manus Prime X Haptic VR data glove.
