@@ -1,8 +1,0 @@
-author: liu_osta_maeda_ukita et al
-n_fold: 9
-random_joints: True
-cap_boundaries: None
-use_quartile_range: False
-variance: None
-name: Range Based Liu_osta_maeda_ukita
-spread_limit: None

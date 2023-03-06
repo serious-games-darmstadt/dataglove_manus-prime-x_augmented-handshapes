@@ -1,7 +1,0 @@
-author: unknown et al
-n_fold: 4
-random_joints: True
-cap_boundaries: None
-use_quartile_range: False
-variance: None
-name: Range Interpolation Unknown

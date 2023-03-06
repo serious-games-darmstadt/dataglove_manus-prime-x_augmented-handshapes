@@ -1,7 +1,0 @@
-author: elnagger et al
-n_fold: 4
-random_joints: True
-cap_boundaries: False
-name: Scaling Elnagger
-distribution: ('uniform', 0.7, 1.3)
-stretch_only: False

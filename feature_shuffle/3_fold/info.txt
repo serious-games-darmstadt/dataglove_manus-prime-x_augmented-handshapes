@@ -1,8 +1,0 @@
-author: unknown et al
-n_fold: 3
-random_joints: False
-cap_boundaries: None
-use_quartile_range: None
-variance: None
-name: Feature Shuffle Unknown
-shuffle_between: gesture
